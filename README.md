@@ -1,0 +1,1 @@
+# uiautomator_maven_intellij-IDEA
